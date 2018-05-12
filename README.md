@@ -16,9 +16,9 @@
 * Noted that our cnn model was trained for FashionAI challenge hold by Alibaba, and you can click this [link](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6529d7804HqC0a&raceId=231649) for more information about the data.
 * press button *Star training* to train the cnn
 * press button *Stop* to stop the training process
-![UI destop](./buffer/train.PNG)
+![UI train](./buffer/train.PNG)
 
 ### 2. test
 * press button *choose test data* to choose one image to test, then the test image and results will be shown in the UI. 
 * Noted that ur cnn model was trained for FashionAI challenge opened by Alibaba, and you can click this [link](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6529d7804HqC0a&raceId=231649) for more information about the results required for this challenge.
-![UI destop](./buffer/test.PNG)
+![UI test](./buffer/test.PNG)
